@@ -1,3 +1,3 @@
 # 06_Polymorphism_I
 
-## Polymorphie
+## Beispiel HoneyBee
